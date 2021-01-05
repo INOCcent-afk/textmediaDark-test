@@ -351,8 +351,9 @@ p {
   font-size: 11px;
   outline: none;
   line-height: 12px;
+  box-shadow: none !important;
 }
-.reverse-text-media-dark-v3-content button:hover {
+.reverse-text-media-dark-v2-content button:hover {
   background: transparent;
 }
 
